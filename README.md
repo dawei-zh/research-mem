@@ -14,5 +14,5 @@ Everything about the tests, attempts and all others on the enhancement of measur
   * `iterative-bayes`: use iterative Bayesian unfolding method to mitigate readout error
 
 * `score`: include available method to evaluate the performance of mitigation method
-  * `ghz-correction`: generate GHZ state and compare the measurement result with ideal output after mitigation
+  * `ghz`: generate GHZ state and compare the measurement result with ideal output after mitigation
 
